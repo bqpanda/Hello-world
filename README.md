@@ -1,2 +1,3 @@
 # Hello-world
-Just my first repository
+Hello,erveryone!
+I'm Joan.
